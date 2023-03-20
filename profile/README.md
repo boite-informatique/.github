@@ -18,6 +18,7 @@ We are **PingWin**, an IT service provider founded by a group of motivated compu
 </h1>
 
 ### 🧑 Team Members
+
 * Mohamed Miloudi
     * ✉️ : mo.miloudi@esi-sba.dz
     * :octocat: : github.com/ricin9
@@ -30,6 +31,14 @@ We are **PingWin**, an IT service provider founded by a group of motivated compu
 * Amine Mohamed Benchaa
     * ✉️ : ma.benchaa@esi-sba.dz
     * :octocat: : github.com/aminebenchaa
+
+### 💻 Technical Roles
+
+Each member participates in the development and technical implementation of the projects we work on. All members are full-stack web developers so everyone will help in all aspects of the projects. In addition to that, each member also has specialized roles which are mentioned below :
+* Mohamed Miloudi : System architect.
+* Brahim Halloucha Djebbour : Backend developer.
+* Chakib Mohamed Dhiya Eddine Ouzane : Frontend developer.
+* Amine Mohamed Benchaa : Backend developer and designer.
 
 ### 📞 Contact Us
 
