@@ -26,7 +26,7 @@ We are **PingWin**, an IT service provider founded by a group of motivated compu
     * ✉️ : b.hallouchadjebbour@esi-sba.dz
     * :octocat: : github.com/bruuheem
 * Chakib Mohamed Dhiya Eddine Ouzane
-    * ✉️ : b.hallouchadjebbour@esi-sba.dz
+    * ✉️ : mc.ouzane@esi-sba.dz
     * :octocat: : github.com/ch33kaboo
 * Amine Mohamed Benchaa
     * ✉️ : ma.benchaa@esi-sba.dz
