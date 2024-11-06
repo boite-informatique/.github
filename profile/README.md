@@ -1,6 +1,6 @@
 # This is us, PingWin 🐧
 
-![An illustration showing four penguins working as a team on an IT solution.](https://cdn.discordapp.com/attachments/1008571209685925920/1087398889402941530/ch33kaboo_four_penguins_standing_as_a_team_in_a_bright_room_fir_ce0ccf23-7511-4c18-b769-61084bd413b9.png)
+![An illustration showing four penguins working as a team on an IT solution.](https://i.ibb.co/hfggqZz/pingwin.png)
 
 ## Hello There 👋
 
@@ -8,7 +8,7 @@ We are **PingWin**, an IT service provider founded by a group of motivated compu
 
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/998013370655576115/1087445028336582828/gray_pingwin.png" height="150"/> 
+    <img src="https://i.ibb.co/X4qdB4B/logopingwin.png" height="150"/> 
 </div>
 
 <h1 align="center">
